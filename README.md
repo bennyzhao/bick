@@ -1,4 +1,3 @@
-bick
+Bick
 ====
-
-utils,toolkit,etc
+一些utils,toolkit,etc的js
